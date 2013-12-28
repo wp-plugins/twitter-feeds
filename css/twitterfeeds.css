@@ -1,0 +1,28 @@
+.viavi_twitter_feeds{ padding:0px;}
+.viavi_twitter_feeds a {text-decoration:none; color:#159ceb;}
+.tweetlink a{font-size:11px; padding-top:5px; color:#333!important;}
+.imgalign {float:left; margin-right:10px; opacity:1;}
+.imgalign:hover {opacity: 0.5;}
+.viaviwidget-title {font-weight:bold; padding:5px; background:#fff; color:#333;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin-bottom:5px;
+display:inline-block;
+}
+.tweettext, .widget .tweettext { color:#000; }
+.tweettext a, .widget .tweettext a { color:#0088cc; }
+.tweettext a:hover, .widget .tweettext a:hover { color:#555; text-decoration: underline; }
+.tweettxts, .widget .tweettxts {overflow:hidden; line-height:18px; }
+.imgdisplay{border-bottom:solid 1px #e1e1e1; border-top:solid 1px #fff;display: block; background:#f3f3f3; padding:5px 10px;}
+.viavi_twitter_feeds h1{color:#CCC;font-size:18px;}
+.viavi_twitter_feeds .tweet_author_name a, .widget .tweet_author_name a { color:#000; font-weight: bold; font-size:16px;}
+.viavi_twitter_feeds .tweet_author_name a:hover, .widget .tweet_author_name a:hover { color:#777; text-decoration: none; }
+.viavi_twitter_feeds .tweet_author_heading a, .widget .tweet_author_heading a { color:#999; text-decoration: none; }
+.viavi_twitter_feeds .tweet_author_heading a:hover, .widget .tweet_author_heading a:hover { color:#333; text-decoration: none; }
+.viavi_twitter_feeds .tweet_author a, .widget .tweet_author a { color:#c1c1c1; font-size:14px; }
+.viavi_twitter_feeds .tweet_author a:hover, .widget .tweet_author a:hover { color:#000; text-decoration: none; }
+.viavi_twitter_feeds .tweetlink a, .widget .tweetlink a { color:#c1c1c1; font-size:11px; }
+.viavi_twitter_feeds .tweetlink a:hover, .widget .tweetlink a:hover { color:#000; text-decoration: none; } 
+.thinkTwitFollow{ margin-top:10px;} 
+ 
