@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: viaviwebtech
-Donate link:
+Donate link: https://www.paypal.com/cgi-bin/webscr?button=donate&business=viaviwebtech%40gmail.com&item_name=Twitter+Feeds+Donation&quantity=&amount=&currency_code=&shipping=&tax=&notify_url=http%3A%2F%2Fviaviweb.com&cmd=_donations&bn=JavaScriptButton_donate&env=www&submit.x=66&submit.y=12
 Tags: twitter feeds, twitter, feeds, social,social media
 Requires at least: 3.0.1
 Tested up to: 3.9
